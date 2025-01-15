@@ -1,1 +1,3 @@
-# LIFE-A_GreeNet-Platform
+# LIFE+A_GreeNet-Platform
+
+Ciao
